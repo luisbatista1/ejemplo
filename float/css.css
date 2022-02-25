@@ -1,0 +1,43 @@
+.marcoPelotas{
+    background:lightyellow;
+    width: 600px;
+    float:left;
+}
+
+.pelotaPeque{
+    background:lightgray;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+}
+
+.pelotaPeque2{
+    background:lightblue;
+    background-image: url(ball.png);
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+    float:right;
+}
+
+
+.pelotaGrande{
+    background-color:aqua;
+    background-image: url(ball.png);
+    width: 400px;
+    height: 400px;
+    background-size: 400px 400px;
+    float:right;
+}
+
+.porteGrande{
+    background:lightyellow;
+    background-image: url(goal.png);
+    background-size: 600px 400px;
+    width: 600px;
+    height: 400px;
+    float:left;
+}
+
